@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# weird stuff
+misc.xml
+modules.xml
+progiles_settings.xlm
+vcs.xml
+
 # C extensions
 *.so
 
